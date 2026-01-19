@@ -1,0 +1,36 @@
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp_*.png
+*.tmp
+tmp/
+
+# Logs
+*.log
+
+# Test PDF files (optional - remove this line if you want to commit PDFs)
+*.pdf
